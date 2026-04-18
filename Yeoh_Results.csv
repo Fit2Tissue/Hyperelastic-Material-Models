@@ -65,3 +65,4 @@ bovine_medial_meniscus_circumferential_cd_02_yield.csv, 10.1098/rsos.181166,"Joh
 
 
 
+Porcine_aortic_valve_Sample3_0.5_radial.csv,10.17029/754df175-2aa1-4859-993f-4cb775c7122d,"Afshin Anssari-Benam, Andrea Bucchi, Hazel R. C. Screen and Sam L. Evans",,Individual,0.01520743862084511,0.15644655334022795,-0.04779787384134032,0.03041487724169,0.0221,RMSE,,Cardiac,Porcine,Slaughterhouse,Not Known,Radial,Radial,"[""Unique Tissue Name"":Porcine Atrioventricular Valve,""Additional Characteristics"": ""Central belly region""]","[""Samplethickness"":None,""Samplewidth "": None,""Samplelength "": None,""sampleage"":N/A]","[""Tools"":N/A,""Chemicaltreatment "": Dulbecco’s Modified Eagle’s Medium,""Extra details"":None]",Not Known,UT,Bose Electroforce 3200,"[""mediummode "": Not Known,""preconditioning"":N/A]","[""Software"":""Python Flask App"",""Optimization_Type "": least-squares,""Algorithm"":lm]","[""InitialGuesses"":[1, 1, 1],""Bounds"": Least_sqaures No Bounds]"
