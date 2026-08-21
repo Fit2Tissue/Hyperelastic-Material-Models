@@ -166,3 +166,4 @@ PorcineAorticValverad3_0.2.csv,Test,Test,"[6.804555141571e-08, 6.821176157246e-0
 "('PigHeartWallRight07_4.csv',)",TestingB,NaN,TestingB
 "('PigHeartWallRight06_4.csv',)",TestingB,NaN,TestingB
 "('PigHeartWallRight05_4.csv',)",TestingB,NaN,TestingB
+"('PigHeartWallRight08_4.csv',)",testing21_A,"[-0.6982956439189718, 2.5872991669148098, -0.2217717156097666, 2.1571405203829936]",testing21_A
